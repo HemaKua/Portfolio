@@ -11,6 +11,7 @@ export const Bio = {
     "https://drive.google.com/file/d/1LNgsUZg7QwMJikuIldw2CjTC1LbHcfR9/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/hema-kumari-63528a1a2/",
   insta: "https://www.instagram.com/hemasharma6697/",
+  twitter:"https://x.com/KrishnaHem94899",
 };
 
 export const skills = [
